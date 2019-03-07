@@ -1,0 +1,7 @@
+const REASON_INITIAL_DEPOSIT = 'initialDeposit'
+const REASONS = [REASON_INITIAL_DEPOSIT]
+
+module.exports = {
+  REASON_INITIAL_DEPOSIT,
+  REASONS
+}
